@@ -1,4 +1,16 @@
 canvas {
-  border: 10px solid orange;
+  border: 10px solid gray;
   margin: 30 px;
+}
+div {
+  font-family: "Bungee";
+}
+
+h1 {
+  font-family: "Bungee";
+  font-color: "orange";
+}
+
+body {
+  padding-left: 20 px;
 }
